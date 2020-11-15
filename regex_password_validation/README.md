@@ -9,4 +9,4 @@ You need to write regex that will validate a password to make sure it meets the 
 
 Valid passwords will only be alphanumeric characters.
 
-Link to this challenge: https://www.codewars.com/kata/52e1476c8147a7547a000811/train/javascript
+Link to this challenge: https://www.codewars.com/kata/52e1476c8147a7547a000811/javascript
