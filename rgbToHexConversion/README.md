@@ -13,4 +13,4 @@ rgb(0,0,0) // returns 000000
 rgb(148, 0, 211) // returns 9400D3
 ```
 
-Link to this challenge: https://www.codewars.com/kata/513e08acc600c94f01000001/train/javascript
+Link to this challenge: https://www.codewars.com/kata/513e08acc600c94f01000001/javascript
